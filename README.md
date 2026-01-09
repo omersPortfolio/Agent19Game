@@ -1,4 +1,4 @@
-Executable file: https://drive.google.com/file/d/1NXhrGqe-YO_9awfs2y15Ou05b-8QI8Vz/view?usp=drive_link
+### Itch.io: https://omrkocar.itch.io/agent-19
 
 <img width="1915" height="1037" alt="agent19_1" src="https://github.com/user-attachments/assets/774dd450-4528-4eb5-955b-fe0ef2aceb9a" />
 <img width="1915" height="1031" alt="agent19_4" src="https://github.com/user-attachments/assets/73559661-ae9b-4c08-a5f5-6898618589c3" />
